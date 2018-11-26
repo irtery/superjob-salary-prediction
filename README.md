@@ -1,2 +1,2 @@
 # superjob
-super-job data mining
+Superjob data mining
